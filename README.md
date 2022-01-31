@@ -1,4 +1,5 @@
 ![](https://github.com/PrachiPatel15/Detecting-Parkinson-s-Disease/blob/main/disease.png)
+
 Parkinson’s disease is a progressive disorder of the central nervous system affecting movement and inducing tremors and stiffness.
 This is chronic and has no cure yet. It is a neurodegenerative disorder affecting dopamine-producing neurons in the brain.
 
